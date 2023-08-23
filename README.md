@@ -28,10 +28,7 @@ The NFT Marketplace project introduces a decentralized platform where creators a
 ## ⚙️ Features
 
 - NFT Creation and Ownership
-- Secure Peer-to-Peer Transactions
-- Real-time NFT Insights
 - User Profiles and Collections
-- NFT Trending
 - Interactive NFT Listings
 
 
