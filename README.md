@@ -10,11 +10,12 @@ Welcome to the NFT Marketplace project repository! This decentralized applicatio
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [📍 Overview](#overview)
 - [⚙️ Features](#features)
+- [🧩 Requirements](#🧩-requirements)
 - [📂 Project Structure](#project-structure)
 
-## Overview
+## 📍 Overview
 
 The NFT Marketplace project introduces a decentralized platform where creators and collectors can engage in NFT transactions securely and transparently. This repository contains the code for three integral components:
 
@@ -32,6 +33,19 @@ The NFT Marketplace project introduces a decentralized platform where creators a
 - User Profiles and Collections
 - NFT Trending
 - Interactive NFT Listings
+
+
+## 🧩 Requirements
+
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
+- [Nodejs](https://nodejs.org/en/)
+  - You'll know you've installed nodejs right if you can run:
+    - `node --version` and get an ouput like: `vx.x.x`
+- [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/) instead of `npm`
+  - You'll know you've installed yarn right if you can run:
+    - `yarn --version` and get an output like: `x.x.x`
+    - You might need to install it with `npm`
 
 
 ## 📂 Project Structure
